@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.page1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.bgimage{
+    background-image: url("Rectangle 7.png");
+}
